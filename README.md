@@ -7,6 +7,14 @@
 - Define os pinos de conexão para os sensores de pH e turbidez.
 
 
+## bibliotecas utilizadas:
+
+- *'LiquidCrystal I2C'*,  facilita a comunicação e o controle do display LCDs
+- *'DHT sensor library for ESPx'*,  o controle de sensores de temperatura especificamente em placas como *ESP32* e *ESP8266*
+- *'ArduinoJson'*,  Facilita a criação, análises e manipulação de dados com em formato JSON 
+- *'Wire'*,  comunicação i2c entre arduino e outros dispositíveis com I2C
+
+
 ## Leitura dos Sensores:
 
 - faz a leitura dos valores de temperatura e umidade do sensor DHT22.
@@ -19,6 +27,12 @@
 - Converte o valor analógico do sensor de pH para um valor de pH utilizando uma fórmula de calibração.
 - Converte o valor analógico do sensor de turbidez para um valor de turbidez usando a função 'calculateTurbidity'.
 
+
+## Serialização e Envio dos Dados em Formato JSON:
+
+- Cria um objeto JSON contendo os valores de temperatura, umidade, pH e turbidez.
+- Serializa o objeto JSON em uma string.
+- Envia a string JSON para o monitor serial, permitindo a leitura dos dados de forma estruturada.
 
 
 ## Ciclo de Operação:
