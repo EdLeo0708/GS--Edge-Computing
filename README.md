@@ -75,5 +75,12 @@ Fisicamente, aqui estão as ações específicas dos componentes envolvidos:
   Exibe os dados coletados e processados em formato JSON para fins de monitoramento e depuração.
 
 
+## Integrantes :
+- Edson Leonardo RM: 553737
+
+- Eduardo Mazelli RM: 553236
+
+- Nathan Uflacker RM: 553264
+
   ### ***LINK***
   - [wokwi](https://wokwi.com/projects/399260778570895361)
