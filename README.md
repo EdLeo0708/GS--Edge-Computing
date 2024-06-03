@@ -75,5 +75,5 @@ Fisicamente, aqui estão as ações específicas dos componentes envolvidos:
   Exibe os dados coletados e processados em formato JSON para fins de monitoramento e depuração.
 
 
-  ***LINK*** :
+  ###***LINK***
   - [wokwi](https://wokwi.com/projects/399260778570895361)
