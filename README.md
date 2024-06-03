@@ -9,10 +9,25 @@
 
 ## bibliotecas utilizadas:
 
-- *'LiquidCrystal I2C'*,  facilita a comunicação e o controle do display LCDs
-- *'DHT sensor library for ESPx'*,  o controle de sensores de temperatura especificamente em placas como *ESP32* e *ESP8266*
-- *'ArduinoJson'*,  Facilita a criação, análises e manipulação de dados com em formato JSON 
-- *'Wire'*,  comunicação i2c entre arduino e outros dispositíveis com I2C
+- *'LiquidCrystal I2C'*
+
+
+  Facilita a comunicação e o controle do display LCDs
+
+- *'DHT sensor library for ESPx'*
+
+
+  O controle de sensores de temperatura especificamente em placas como *ESP32* e *ESP8266*
+
+- *'ArduinoJson'*
+
+
+  Facilita a criação, análises e manipulação de dados com em formato JSON 
+
+- *'Wire'*,
+
+
+  Comunicação i2c entre arduino e outros dispositíveis com I2C
 
 
 ## Leitura dos Sensores:
