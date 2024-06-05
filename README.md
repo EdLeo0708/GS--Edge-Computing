@@ -84,3 +84,6 @@ Fisicamente, aqui estão as ações específicas dos componentes envolvidos:
 
   ### ***LINK***
   - [wokwi](https://wokwi.com/projects/399260778570895361)
+ 
+
+  - [Video](https://www.youtube.com/watch?v=lj_5bqRL1fA)
